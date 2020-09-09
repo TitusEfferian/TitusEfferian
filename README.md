@@ -1,8 +1,8 @@
 ### Hi there, I am titus efferian 👋
 
-## Currently active in javascript and google cloud platform
+###### Currently active in javascript and google cloud platform
 
-### Connect with me:
+# Connect with me:
 
 [<img align="left" alt="linked-in | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
