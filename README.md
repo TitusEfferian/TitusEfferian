@@ -1,6 +1,5 @@
 ### Hi there, I am titus efferian 👋
-
-###### Currently active in javascript and google cloud platform
+##### Currently active in javascript and google cloud platform
 
 # Connect with me:
 
