@@ -24,6 +24,6 @@
 
 ## 
 
-<img width="120" src="https://media.tenor.com/images/0f0c75df4e8d5c1ceaefcc8af06895a8/tenor.gif" />
+<!-- <img width="120" src="https://media.tenor.com/images/0f0c75df4e8d5c1ceaefcc8af06895a8/tenor.gif" /> -->
 
 [linkedin]: https://www.linkedin.com/in/titus-efferian/
